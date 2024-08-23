@@ -1,10 +1,11 @@
 <h1> Hello, I'm Albert Tjandra! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 
-<h3>Software Engineer</h3>
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/albert-tjandra)
 
 ## 🚀 About Me
+
+- 🔭 I’m currently working at Sprint Asia Technology
+- 🌱 My current focus is on Web3 Development
 
 I am a highly motivated and accomplished Information Technology professional with a Bachelor's degree in Information Technology, specializing in Information System Security. With a diverse background encompassing roles in cloud engineering, software engineering, and team leadership, I have consistently demonstrated a strong commitment to excellence, innovation, and team collaboration.
 
