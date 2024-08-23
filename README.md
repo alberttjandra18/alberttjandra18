@@ -7,16 +7,6 @@
 - 🔭 I’m currently working at Sprint Asia Technology
 - 🌱 My current focus is on Web3 Development
 
-I am a highly motivated and accomplished Information Technology professional with a Bachelor's degree in Information Technology, specializing in Information System Security. With a diverse background encompassing roles in cloud engineering, software engineering, and team leadership, I have consistently demonstrated a strong commitment to excellence, innovation, and team collaboration.
-
-I am deeply passionate about building and leading high-performing teams that thrive on innovation and a shared commitment to excellence. Throughout my career, I have cultivated an environment where individuals are empowered to take ownership of their work, fostering a sense of pride and dedication to achieving collective goals.
-
-I believe in the power of collaboration and effective communication to drive success. My mission is to create teams that not only meet project objectives but also find fulfillment in their work, creating a positive and inspiring workplace culture.
-
-If you share a similar passion for building exceptional teams and delivering outstanding results, I would welcome the opportunity to connect and explore potential collaborations.
-
-Let's connect and explore opportunities to create excellence together!
-
 ## 🛠️ Technologies & Tools
 
 ![](https://img.shields.io/badge/Backend-NodeJS-informational?style=flat&logo=nodedotjs&logoColor=white&color=4AB197)
