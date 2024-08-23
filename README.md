@@ -1,7 +1,6 @@
 <h1> Hello, I'm Albert Tjandra! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
-<p align='center'>
-</p>
-<h3 align="center">Software Engineer</h3>
+
+<h3>Software Engineer</h3>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/albert-tjandra)
 
