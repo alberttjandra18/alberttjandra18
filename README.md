@@ -1,4 +1,4 @@
-<p style="font-size:200%;> Hello, I'm Albert Tjandra - Dovey Codey! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </p>
+<p stype="font-size:200%";> Hello, I'm Albert Tjandra - Dovey Codey! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=4B5C6D)](https://linkedin.com/in/albert-tjandra)
 [![Instagram](https://img.shields.io/badge/Instagram-informational?style=flat&logo=instagram&logoColor=white&color=4B5C6D)](https://www.instagram.com/i.am_dovey.codey)
