@@ -15,15 +15,21 @@
 
 ## 🛠️ Technologies & Tools
 
+# Programming Languages
+
 ![](https://img.shields.io/badge/NodeJS-informational?style=flat&logo=nodedotjs&logoColor=white&color=4B5C6D)
 ![](https://img.shields.io/badge/Go-informational?style=flat&logo=go&logoColor=white&color=4B5C6D)
 
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4B5C6D)
 ![](https://img.shields.io/badge/PHP-informational?style=flat&logo=php&logoColor=white&color=4B5C6D)
 
+# Database - Query
+
 ![](https://img.shields.io/badge/MySQL-informational?style=flat&logo=mysql&logoColor=white&color=4B5C6D)
 ![](https://img.shields.io/badge/MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=4B5C6D)
 ![](https://img.shields.io/badge/PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=4B5C6D)
+
+# Server - DevOps
 
 ![](https://img.shields.io/badge/Docker-informational?style=flat&logo=docker&logoColor=white&color=4B5C6D)
 ![](https://img.shields.io/badge/AWS-informational?style=flat&logo=amazonwebservices&logoColor=white&color=4B5C6D)
