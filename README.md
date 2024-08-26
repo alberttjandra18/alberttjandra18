@@ -3,9 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=4B5C6D)](https://linkedin.com/in/albert-tjandra)
 [![Instagram](https://img.shields.io/badge/Instagram-informational?style=flat&logo=instagram&logoColor=white&color=4B5C6D)](https://www.instagram.com/i.am_dovey.codey)
 
-<p>
 ![](https://github.com/user-attachments/assets/a1859d60-d2cf-4ae5-9ec9-d83ca4e32c65)
-</p>
 
 <p stype="font-size:300%";> 🚀 About Me </p>
 
