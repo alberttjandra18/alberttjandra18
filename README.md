@@ -4,7 +4,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-informational?style=flat&logo=instagram&logoColor=white&color=4B5C6D)](https://www.instagram.com/i.am_dovey.codey)
 
 <p>
-![pixlr-image-generator-288b6e82-1bc6-4b7d-bfa5-a98ec0fac536](https://github.com/user-attachments/assets/a1859d60-d2cf-4ae5-9ec9-d83ca4e32c65)
+![](https://github.com/user-attachments/assets/a1859d60-d2cf-4ae5-9ec9-d83ca4e32c65)
 </p>
 
 <p stype="font-size:300%";> 🚀 About Me </p>
