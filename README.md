@@ -4,7 +4,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-informational?style=flat&logo=instagram&logoColor=white&color=4B5C6D)](https://www.instagram.com/i.am_dovey.codey)
 </br>
 
-![](https://github.com/user-attachments/assets/8441f306-567e-46e4-8299-db875e702852)
+<img src = "https://github.com/user-attachments/assets/8441f306-567e-46e4-8299-db875e702852" width = 40%>
 
 </br>
 <h3> 🚀 About Me </h3>
